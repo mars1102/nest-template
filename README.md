@@ -4,6 +4,6 @@
 
 ### 🔧 Usage
 
-```npm
-npm run start:dev
+```pnpm
+pnpm run start:dev
 ```
